@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{1A74FBAB-155D-B16C-B0DC-2CE7AC0AF925}|">
+  <MonoDevelop.Ide.ItemProperties.AllIn1SpriteShaderAssembly PreferredExecutionTarget="48b054ce-05a4-4d18-8769-a9be7016d97e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bc056f5d-56a4-4793-b53f-740c96f15d0d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Class3/Scripts/PlayerPFMovement.cs">
+    <Files>
+      <File FileName="Assets/Class3/PlayerPFMovement.cs" Line="38" Column="6" />
+      <File FileName="Assets/Class2/Juice.cs" Line="1" Column="1" />
+      <File FileName="Assets/Class2/BounceIn.cs" />
+      <File FileName="Assets/Class2/CameraJuice.cs" />
+      <File FileName="Assets/Class2/particleJuice.cs" />
+      <File FileName="Assets/Class2/particleJuiceCreator.cs" />
+      <File FileName="Library/PackageCache/com.unity.inputsystem@1.7.0/InputSystem/Plugins/PlayerInput/PlayerInput.cs" />
+      <File FileName="Assets/Class1/PlayerMovement2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Class3/CameraLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets/Class3/Scripts/PlayerPFMovement.cs" Line="238" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
